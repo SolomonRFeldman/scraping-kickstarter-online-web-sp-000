@@ -1,5 +1,6 @@
 require 'nokogiri'
 require 'pry'
+require_relative 'fixtures/kickstarter.html'
 
 # projects: kickstarter.css("li.project.grid_4")
 
